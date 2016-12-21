@@ -1,0 +1,2 @@
+# proxifier-profile
+common profile
